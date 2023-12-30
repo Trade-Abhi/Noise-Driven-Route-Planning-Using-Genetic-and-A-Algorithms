@@ -1,0 +1,6 @@
+# There are four code files. You will be needing data set for all of them. 
+	1) Run the 'Final mp3 to db' code.
+	2) Then run the 'Final Heat Map' code. 
+	3) Run the 'Final Genetic' code.
+	4) And in the end run 'Final A star' code.
+Copy the data from the DataSet folder and paste it into the Codes folder to get the results.
